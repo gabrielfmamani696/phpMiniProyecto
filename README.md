@@ -57,5 +57,14 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
-
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# Inicio del programa
+Descargar en el entorno XAMPP, iniciar Apache y MySQL
+
+Mediante CMD o PowerShell ingrese a la ruta de carpetas ../phpMiniProyecto
+
+ingrese el comando:
+php artisan serve
+

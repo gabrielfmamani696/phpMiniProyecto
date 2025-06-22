@@ -17,5 +17,11 @@
         <p>
             Password: {{ $users->password }}
         </p>
+        <p>
+            hola
+        </p>
+        <p>
+            adios
+        </p>
     </body>
 </html>

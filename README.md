@@ -68,3 +68,13 @@ Mediante CMD o PowerShell ingrese a la ruta de carpetas ../phpMiniProyecto
 ingrese el comando:
 php artisan serve
 
+# Entorno del programa
+Xampp
+Composer
+
+generar el .env con las credenciales correspondientes
+composer install
+php artisan migrate
+exportar datos de la bd
+
+php artisan serve

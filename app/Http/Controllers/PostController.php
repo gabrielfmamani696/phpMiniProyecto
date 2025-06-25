@@ -11,6 +11,7 @@ class PostController extends Controller
     public function postMethod(): View {
 
         $posts = Post::all();
+        //aqui va la logica y el amnejo de datos
         // dd($posts);
         return view("posts", compact("posts"));
     }
